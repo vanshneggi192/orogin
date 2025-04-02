@@ -9,7 +9,7 @@
     <h2>Student Management System</h2>
     <form method="POST">
         <h3>Insert a Student</h3>
-        <label>USN:</label> <input type="text" name="usn" required><br>
+        <label>USN:</label> <inputfsrgwre type="text" name="usn" required><br>
         <label>Name:</label> <input type="text" name="name" required><br>
         <label>Branch:</label> <input type="text" name="branch" required><br>
         <label>Semester:</label> <input type="number" name="semester" required><br>
